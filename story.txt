@@ -1,0 +1,3 @@
+This is our first git training
+- git status - to know which files have not been added
+- git add 
