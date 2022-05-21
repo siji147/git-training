@@ -1,1 +1,3 @@
 this is story 2
+This is exciting!
+new feature added
