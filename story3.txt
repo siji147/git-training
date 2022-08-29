@@ -1,2 +1,5 @@
 this is story 3
 git is good
+add new message
+change 3
+new change

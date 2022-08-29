@@ -1,3 +1,5 @@
 This is our first git training
 - git status - to know which files have not been added
-- git add 
+- git add .
+- git commit -m "message should go here"
+new change 1
